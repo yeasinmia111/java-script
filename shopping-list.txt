@@ -1,0 +1,1 @@
+const myList = [["Chocolate Bar", 15],["Ice Cream", 50],["Chocolate Bar milk", 150],["Chocolate Bar slik", 250],["Chocolate Bar", 80]];

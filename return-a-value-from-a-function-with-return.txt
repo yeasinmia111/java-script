@@ -1,0 +1,4 @@
+function timesFive (par1){
+  return par1*5;
+}
+const answer = timesFive (10);
